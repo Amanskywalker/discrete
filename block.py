@@ -1,4 +1,4 @@
-# Genesis block structure
+# Genesis block structure use as the base structure
 
 import hashlib as hasher
 
